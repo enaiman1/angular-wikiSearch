@@ -7,5 +7,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 [Javascript Framework - Angular] (https://angular.io/)
 [CSS Framework - Bulma] (https://bulma.io/)
 
+### live site
+https://angular-wiki-search.now.sh/
+
 
 
